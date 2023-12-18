@@ -86,4 +86,35 @@ body, html {
   margin-right: auto;
   background-color: #57585C;
   color: white;
+  border-radius: 5px;
+  border: none ;
 }
+
+.main-top {
+  border: 1px solid red;
+  width: 100%;  
+  height: 300px;
+  background-color: #5260BA;
+  display: flex;
+}
+
+.main-top-header {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-align: center;
+}
+
+.top-header-p {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  font-size: 14px ;
+}
+
+.top-header-title {
+  margin: 0;
+  font-size: 20px;
+}
+
+
+
